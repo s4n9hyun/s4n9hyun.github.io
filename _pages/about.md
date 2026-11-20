@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student, <a href='https://www.snu.ac.kr/'>Seoul National University</a> · <a href='https://sites.google.com/view/snuh-bmi-lab/home'>Biomedical Intelligence Lab, SNUH</a>
+subtitle: Ph.D. student, Seoul National University · Biomedical Intelligence Lab, SNUH
 
 profile:
   align: right
