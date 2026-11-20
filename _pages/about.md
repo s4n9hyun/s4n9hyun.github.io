@@ -4,7 +4,7 @@ title: about
 permalink: /
 
 sidebar:
-  image: # e.g. profile.jpg in assets/img/ (initials are shown until set)
+  image: profile.jpg
   bio: Ph.D. student at BMI Lab, Seoul National University Hospital
   location: Seoul, South Korea
   affiliation: Seoul National University
