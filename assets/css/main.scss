@@ -36,3 +36,9 @@
 .social .contact-icons {
   font-size: 2rem;
 }
+
+// Site overrides: light purple accent in dark mode (cyan blended into the dark background)
+html[data-theme="dark"] {
+  --global-theme-color: #c58af9;
+  --global-hover-color: #c58af9;
+}
