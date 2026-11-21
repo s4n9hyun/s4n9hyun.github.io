@@ -1,3 +1,7 @@
 "ICLR":
   url: https://iclr.cc/
   color: "#00369f"
+
+"Database":
+  url: https://academic.oup.com/database
+  color: "#8b1d2c"
